@@ -1,0 +1,7 @@
+# database name: SANDBOX
+# share name: SHR_SANDBOX
+# shared with account: ___
+schemas:
+  - schema_name: PUBLIC
+    views:
+      - SANDBOX.PUBLIC.COUNTY_HEALTH_RANKING
